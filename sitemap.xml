@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/barryboches/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/4.1.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.8" -->
+<!-- generated-on="March 9, 2015 6:07 am" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://localhost/barryboches/</loc>
+		<lastmod>2015-03-09T06:05:00+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://localhost/barryboches/criminal-law/</loc>
+		<lastmod>2015-03-09T05:58:59+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/barryboches/catch/</loc>
+		<lastmod>2015-03-09T05:58:21+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/barryboches/accident-law/</loc>
+		<lastmod>2015-03-09T05:57:37+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/barryboches/traffice-law/</loc>
+		<lastmod>2015-03-09T05:56:45+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/barryboches/thank-you/</loc>
+		<lastmod>2015-03-09T05:54:16+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/barryboches/contact-us/</loc>
+		<lastmod>2015-02-18T11:12:12+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/barryboches/blog/</loc>
+		<lastmod>2015-02-18T11:11:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>

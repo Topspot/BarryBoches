@@ -1,0 +1,121 @@
+.nav-top{
+
+}
+.nav-top .container{
+    background: url(images/nav_bg.jpg) repeat-x #444b3b;
+    padding: 0px;
+    border-bottom: solid 0px #919191;
+}
+.nav-top #megaUber li{
+    border-left: 1px solid #2e3328 !important;
+    border-right: 0px solid #abab7c !important;
+}
+.nav-top #megaUber li:first-child{
+    border-left: none !important;
+}
+.nav-top #megaUber li:last-child{
+    border-right: none !important;
+}
+.nav-top #megaUber li:hover a{
+    background: url(images/hav_hover_bg.jpg) #fff;
+    color: #404040;
+}
+.nav-top #megaUber li:hover a:after{
+    border-color: #fff transparent transparent !important;
+    border: none !important; 
+}
+#megaMenu ul.megaMenu li.menu-item.ss-nav-menu-reg li.menu-item.megaReg-with-sub > a:after, #megaMenu ul.megaMenu li.menu-item.mega-with-sub > a:after, #megaMenu ul.megaMenu li.menu-item.ss-nav-menu-mega > a:after, #megaMenu ul.megaMenu li.menu-item.ss-nav-menu-reg li.menu-item.megaReg-with-sub > span.um-anchoremulator:after, #megaMenu ul.megaMenu li.menu-item.mega-with-sub > span.um-anchoremulator:after, #megaMenu ul.megaMenu li.menu-item.ss-nav-menu-mega > span.um-anchoremulator:after{
+    content: "";
+    border: none !important;
+}
+.nav-top #megaUber li a .wpmega-link-title{
+    margin-right: 2px;
+    padding: 8px 7px !important;
+}
+.nav-top #megaUber li a{
+    color: #fff;
+    font-family: "open sans",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 !important;
+    padding: 10px 3px !important;
+    text-transform: capitalize;
+}
+.nav-top #megaUber li a:hover{
+    background: url(images/hav_hover_bg.jpg) #fff;
+    color: #404040;
+}
+.nav-top #megaUber .sub-menu{
+    background: none repeat scroll 0 0 #444b3b;
+    border: medium none !important;
+    border-radius: 0 !important;
+    /*display: block !important;*/
+    padding: 0 !important;
+    width: 250px !important;
+}
+.nav-top #megaUber .sub-menu-1{
+    top: 59px;
+}
+.nav-top #megaUber .sub-menu a:hover:after{
+    border-color: #fff transparent transparent !important;
+}
+.nav-top #megaUber .sub-menu li{
+    border-left: none !important;
+    border-right: none !important;
+    border-top: 1px solid #565f4b !important;
+    border-bottom: 1px solid #2e3328 !important;
+}
+.nav-top #megaUber .sub-menu li .wpmega-link-title{
+    white-space: normal !important;
+}
+.nav-top #megaUber .sub-menu li:first-child{
+    border-top: none !important;
+}
+.nav-top #megaUber .sub-menu li:last-child{
+    border-bottom: none !important;
+}
+.nav-top #megaUber .sub-menu li a{
+    color: #fff;
+    font-family: "open sans",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0 !important;
+    padding: 6px 4px !important;
+    text-transform: capitalize;
+}
+.nav-top #megaUber .sub-menu li a .wpmega-link-title{
+
+}
+.nav-top #megaUber .sub-menu li a:hover{
+    background: #fff;
+    color: #404040;
+}
+#megaMenu ul.megaMenu li.menu-item.ss-nav-menu-reg li.menu-item.megaReg-with-sub > a:after, #megaMenu ul.megaMenu li.menu-item.ss-nav-menu-reg li.menu-item.megaReg-with-sub > span.um-anchoremulator:after{
+    border-left: 3px solid #fff;
+}
+#megaMenu.megaResponsive ul.megaMenu li.menu-item.ss-nav-menu-reg ul.sub-menu > li.menu-item > a:after, #megaMenu.megaResponsive ul.megaMenu li.menu-item.ss-nav-menu-reg ul.sub-menu > li.menu-item > span.um-anchoremulator:after{
+    border-color: #fff transparent transparent;
+}
+/*.......................Responsive Css......................*/
+#megaMenu{
+    /*background: url(images/nav_bg.png) repeat-x #015db4 !important;*/
+}
+#megaMenu #megaMenuToggle{
+    color: #fff;
+    font-family: 'open sans',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 14px 10px;
+}
+.megaMenuToggleOpen li a{
+    border-radius: 0px !important;
+}
+#megaMenu #megaMenuToggle .megaMenuToggle-icon{
+    background: #fff !important;
+}
+#megaMenu #megaMenuToggle .megaMenuToggle-icon:before{
+    background: #fff !important;
+}
+#megaMenu #megaMenuToggle .megaMenuToggle-icon:after{
+    background: #fff !important;
+}

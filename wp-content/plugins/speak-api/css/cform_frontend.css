@@ -1,0 +1,7 @@
+#ajax-loader-cform{
+    background: url("../images/ajax-loader.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 16px;
+    margin: 20px auto 0;
+    width: 16px;
+    display: none;
+}
